@@ -1,6 +1,6 @@
-THEME: Black - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
+THEME: varghaz
+AUTHOR:Misael Vargas
+
 VERSION: 1.0
 
 
