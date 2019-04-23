@@ -1,7 +1,4 @@
-THEME: Black - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
-VERSION: 1.0
+
 
 
 CREDITS:
